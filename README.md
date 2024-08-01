@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://qr-code-component-gilt-six.vercel.app/)
+- Solution URL: [Github](https://github.com/meandrewaprianto/qr-code-componen)
+- Live Site URL: [Vercel](https://qr-code-component-gilt-six.vercel.app/)
 
 ## My process
 
@@ -49,4 +49,4 @@ Trying with css flexbox
 ## Author
 
 - Website - [andrewaprianto](https://qr-code-component-gilt-six.vercel.app/)
-- Frontend Mentor - [@meandrewaprianto](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [meandrewaprianto](https://www.frontendmentor.io/profile/yourusername)
