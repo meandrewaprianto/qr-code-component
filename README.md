@@ -49,4 +49,4 @@ Trying with css flexbox
 ## Author
 
 - Website - [andrewaprianto](https://qr-code-component-gilt-six.vercel.app/)
-- Frontend Mentor - [meandrewaprianto](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [meandrewaprianto](https://www.frontendmentor.io/profile/meandrewaprianto)
